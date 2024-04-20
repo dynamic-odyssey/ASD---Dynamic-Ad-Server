@@ -8,6 +8,7 @@ Setup Instructions
 
 Start XAMPP Services:
 
+
 Open the XAMPP Control Panel.
 Start the Apache and MySQL services by clicking their respective "Start" buttons.
 Create a Database:
